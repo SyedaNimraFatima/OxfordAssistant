@@ -1,0 +1,7 @@
+pdfplumber
+tqdm
+pytesseract
+pymupdf
+Pillow
+langchain
+sentence-transformers
